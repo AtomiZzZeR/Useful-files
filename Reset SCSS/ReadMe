@@ -1,0 +1,4 @@
+All HTML page elements have their own specific values by default. 
+And, unfortunately, they are not interpreted in the same way by different browsers. 
+As a result, the design of the site suffers, its design changes when changing the browser (Internet browser). 
+The purpose of the style reset procedure is to reduce browser inconsistencies on things like line heights, margins, header font sizes, etc.

@@ -2,7 +2,8 @@
     margin: 0;
     padding: 0;
     border: 0;
-
+    
+    &,
     &::before,
     &::after {
         box-sizing: border-box;
@@ -22,6 +23,7 @@ a {
         outline: 0;
     }
 
+    &,
     &:visited,
     &:hover {
         text-decoration: none;
